@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NPC
+  - Barrel
+  - Pet
+  - Lever
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Agile
+  - Strong
+  - Barrel
+  - Collision
+  - Door
+  - Gaps
+  - Pet
+  - Lever
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Floor
+    uniqueID: 3607555449
+    locked: 0
+  - name: Collision
+    uniqueID: 3837778799
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
